@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "version": 16,
+    "version": 18,
     "date": "2025-11-28T18:45:00Z",
     "jre-path": "jre%s.zip",
     "launcher-path": "Launcher-obf.jar",
